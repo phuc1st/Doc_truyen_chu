@@ -6,6 +6,8 @@ nhập file sql.
 sửa kết nối database ở file connect
 
 Chạy file trangchu2.java
+
+Mọi thắc mắc xin liên hệ facebook đc gắn link ở profile 
 ![image](https://github.com/user0711mil/VKU-java-n-m-1/assets/143789222/dd7caebe-b9f5-45fc-ab77-301e3bf1bb38)
 
 
